@@ -1,0 +1,13 @@
+.comments {
+    flex-direction: column;
+    background: #B6ACA9;
+    margin: 0 80px;
+    padding: 10px 20px;
+    display: flex;
+}
+
+.comment__title {
+    margin: 0;
+    padding: 0 0 10px 0;
+    font-weight: bold;
+}

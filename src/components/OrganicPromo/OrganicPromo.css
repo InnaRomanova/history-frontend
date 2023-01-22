@@ -1,0 +1,84 @@
+.promo {
+    margin: 0;
+    padding: 0;
+}
+
+.promo__container {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+    min-height: 720px;
+}
+
+.promo__organic {
+    margin: 0;
+    padding: 0;
+    width: 1280px;
+    border-radius: 0px;
+
+}
+
+.promo__title {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 100%;
+    text-align: center;
+    background: #F6F7F1;
+    color: #1F1E1E;
+}
+
+.promo__photo {
+    padding: 0 80px;
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+
+.promo__photo-text {
+    background: #3F3F42;
+    padding: 15px;
+    margin: 0 80px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.promo__list {
+    margin: 0 80px;
+    padding: 10px 0;
+background: #FFFAF0;
+}
+
+.promo__list-text {
+    min-height: 144px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 133%;
+    text-align: inherit;
+    color: #1F1E1E;
+    margin: 0;
+    padding: 0;
+}
+
+.promo__list-item {
+    margin: 20px 25px 20px 25px;
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 145%;
+    letter-spacing: 0.4px;
+    text-align: justify;
+    color: #1F1E1E;
+}

@@ -1,0 +1,65 @@
+.dialog {
+    margin: 0 80px;
+    padding: 0;
+}
+
+.dialog__photo {
+    margin: 0 80px;
+    padding: 0;
+
+}
+
+.dialog__photo-family {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+    object-fit: contain;
+    object-position: center;
+}
+
+.dialog__photo-text {
+    background: #3F3F42;
+    padding: 15px;
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    height: 50px;
+}
+
+.dialog__list {
+    margin: 0;
+    padding: 20px 0;
+    display: grid;
+    gap: 20px;
+    background: #FFFAF0;
+}
+
+.dialog__list-text {
+    margin: 0 0 0 20px;
+    padding: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 133%;
+    letter-spacing: 0.4px;
+    color: #1F1E1E;
+}
+
+.dialog__list-text:nth-child(odd) {
+    font-weight: bold;
+    margin-left: 0;
+}
+
+
+.dialog__photo-block {
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    min-height: 600px;
+}
