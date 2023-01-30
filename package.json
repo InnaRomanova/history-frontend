@@ -2,7 +2,7 @@
   "name": "history-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://innaromanova.github.io/page-landing-history/",
+  "homepage": "https://innaromanova.github.io/page-landing-history",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
