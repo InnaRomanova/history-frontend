@@ -16,7 +16,7 @@ function App() {
              <CurrentUserContext.Provider value={ currentUser }>
                 <div className="page__content">
                     <Routes>
-                        <Route exac path="/" element={<>
+                        <Route exac path="/history-frontend" element={<>
                           <Header />
                             <Main />
                             <Footer />
