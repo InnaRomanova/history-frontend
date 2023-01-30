@@ -20,7 +20,7 @@
 Запустить проект в режиме разработки
 <br>
 Для просмотра скачайте архив, распакуйте, запустите в терминале     
-`npm start` и [откройте](http://localhost:3000) в браузере.
+`npm start` и [откройте](https://innaromanova.github.io/page-landing-history/) в браузере.
 
 #### `npm run build`
 
